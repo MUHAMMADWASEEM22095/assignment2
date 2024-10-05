@@ -3,14 +3,14 @@ import React from 'react'
 function Cards() {
   return (
     <div>
-      <div class="card">
-        <div class="col mt-0">
-          <h5 class="card-title">Sales</h5>
+      <div className="card w-25">
+        <div className="col mt-1">
+          <h5 className="card-title">Sales</h5>
         </div>
-        <h1 class="mt-1 mb-3">2.382</h1>
-          <div class="mb-0">
-            <span class="text-danger"> <i class="mdi mdi-arrow-bottom-right"></i> -3.65% </span>
-            <span class="text-muted">Since last week</span>
+        <h1 className="mt-0 mb-2">2.382</h1>
+          <div className="mb-0">
+            <span className="text-danger"> <i className="mdi mdi-arrow-bottom-right"></i> -3.65% </span>
+            <span className="text-muted">Since last week</span>
           </div>
         </div>
     </div>

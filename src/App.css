@@ -38,16 +38,16 @@
 }
 
 
-.Title{
+.p-0{
     width: 229px;
-    height: 90px;
+    height: 100px;
     padding: 2px;
     background-color: #c4c9d5;
     border-radius: 15px;
     border: 2px solid #5a5f6c;
     margin: 3px;
 }
-.Tname{
+.ml-3{
   width: auto;
   height: auto;
   margin: 1px;
@@ -67,4 +67,18 @@
   color: #282828;                  
   text-decoration: none;           
   margin: 0 5px;                   
+}
+
+.card{
+  border-radius: 10px;
+  border: #282828 solid 3px;
+}
+
+.custom-width {
+  width: 20%;
+}
+
+.mb-3{
+  border: 1px solid #282828;
+  border-radius: 10px;
 }
