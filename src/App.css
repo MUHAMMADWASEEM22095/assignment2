@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Title{
+    width: 229px;
+    height: 90px;
+    padding: 2px;
+    background-color: #c4c9d5;
+    border-radius: 15px;
+    border: 2px solid #5a5f6c;
+    margin: 3px;
+}
+.Tname{
+  width: auto;
+  height: auto;
+  margin: 1px;
+}
+.footer {
+  background-color: #bed3b2;    
+  border: 2px solid #367250;
+  color: #0a021c;                      
+  text-align: center;                
+  padding: 15px ;                  
+  position: relative;              
+  bottom: 0;                       
+  width: 100%;                     
+}
+
+.footer a {
+  color: #282828;                  
+  text-decoration: none;           
+  margin: 0 5px;                   
+}
